@@ -6,4 +6,4 @@
 
 ### - Strogonoff de frango
 
-### - Pave
+### - Pavê

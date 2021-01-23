@@ -6,4 +6,6 @@
 
 ### - Strogonoff de frango
 
-### - Pave
+### - Pave de mel
+
+### - Chocolate
